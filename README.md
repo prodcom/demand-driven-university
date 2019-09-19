@@ -1,4 +1,6 @@
 # The Demand Driven University System: A Mixed Report Card
+Code can be used to replicate the findings in the Australian Government Productivity Commission's research paper titled
+"The Demand Driven University System: A Mixed Report Card" (June 2019).
 
 The report can be found here: https://www.pc.gov.au/research/completed/university-report-card
 
